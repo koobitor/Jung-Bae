@@ -1,0 +1,11 @@
+{
+  "name": "thai",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.0.1",
+    "coffee-script": "~1.4.0",
+    "node-dev": "2.0.0",
+    "underscore": "1.4.4"
+  }
+}
