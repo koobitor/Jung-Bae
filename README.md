@@ -9,7 +9,7 @@ How To Use
 - npm install
 - node-dev server.js
 
-Ex.
+eg.
 - http://localhost:3000/wtr/บ่องตงเธอน่ารักจุงรักเธอจุงเบย
 - http://localhost:3000/rtw/บองตรงๆเธอน่ารักจังรักเธอจังเลย
 
