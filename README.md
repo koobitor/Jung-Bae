@@ -8,14 +8,16 @@ How To Use
 - cd Jung-Bae
 - npm install
 - node-dev server.js
+Ex. http://localhost:3000/wtr/บ่องตงเธอน่ารักจุงรักเธอจุงเบย
+    http://localhost:3000/rtw/บองตรงๆเธอน่ารักจังรักเธอจังเลย
 
 Version 0.0.1
-- Mapping Array
+- Array Mapping
 - '/wtr/:word' Change Jung-Bae to Thai
 - '/rtw/:word' Change Thai to Jung-Bae
 
 Version 0.0.2
-- More Word
+- More Words
 
 Version 0.1.0
-- Mongodb
+- MongoDB
