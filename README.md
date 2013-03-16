@@ -8,8 +8,10 @@ How To Use
 - cd Jung-Bae
 - npm install
 - node-dev server.js
-Ex. http://localhost:3000/wtr/บ่องตงเธอน่ารักจุงรักเธอจุงเบย
-    http://localhost:3000/rtw/บองตรงๆเธอน่ารักจังรักเธอจังเลย
+
+Ex.
+- http://localhost:3000/wtr/บ่องตงเธอน่ารักจุงรักเธอจุงเบย
+- http://localhost:3000/rtw/บองตรงๆเธอน่ารักจังรักเธอจังเลย
 
 Version 0.0.1
 - Array Mapping
